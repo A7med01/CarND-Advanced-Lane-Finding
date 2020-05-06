@@ -16,7 +16,7 @@ The steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./output_images/calibration.jpg "Chessboard Calibration"
+[image1]: ./output_images/calibration.jpg "Chessboard Calibration" 
 [image2]: ./output_images/Undistorted_Image.jpg "Undistorted"
 [image3]: ./output_images/color_binary_Image.jpg "thresholded binary Image"
 [image4]: ./output_images/birds_eye_view_Image.JPG "Warp Example"
